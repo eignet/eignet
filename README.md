@@ -96,6 +96,27 @@ I believe in continuous learning, building practical solutions,
 and improving software through innovation and problem-solving.
 
 ---
+
+## Connect With Me
+
+I'm always interested in connecting with developers,
+businesses, and people building innovative technology solutions.
+
+<p align="left">
+  <a href="https://github.com/eignet">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+ 
+  <a href="mailto:romanucekelvin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.eignet.co.tz">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
  Thanks for visiting my profile!
  
  
