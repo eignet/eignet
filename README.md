@@ -3,10 +3,21 @@
 
 ### Software Developer | Full-Stack Developer
 
-I'm a passionate software developer focused on designing,
-developing, and maintaining scalable software solutions.
-I enjoy turning ideas into practical digital products
-that solve real-world problems.
+I am a Software Developer passionate about designing,
+developing, and deploying real-world software solutions.
+
+I specialize in building web applications, mobile
+applications, SaaS platforms, e-commerce systems,
+and business management solutions.
+
+I have successfully developed and deployed multiple
+live software platforms that address practical
+challenges in education, commerce, logistics,
+and business communication.
+
+I enjoy solving complex problems through technology,
+building scalable systems, and continuously improving
+my software engineering skills.
 
 
 ## Featured Projects
