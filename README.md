@@ -57,6 +57,13 @@ cross-region delivery services.
 A bulk SMS platform designed to facilitate
 large-scale messaging and communication.
 
+###  Web Platforms
+
+| Project | Description | Live Demo |
+|---|---|---|
+| Eignet Soko | Multi-vendor E-commerce Platform | [Visit Website](https://esoko.eignet.co.tz) |
+| ES Platform | School Management System | [Visit Website](https://esplatform.eignet.co.tz) |
+
 > All the above projects are live and operational.
 
 
